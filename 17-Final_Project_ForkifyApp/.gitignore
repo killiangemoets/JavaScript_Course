@@ -1,0 +1,4 @@
+node_modules
+dist
+.parcel-cache
+controller_copy.js
